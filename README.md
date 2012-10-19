@@ -1,8 +1,6 @@
 api-basics
 ==========
-
-API Basics
-----------
+Basic understanding of Application Programming Interface's (API)
 
 What Problem This Solves:
 ------------------------
@@ -14,6 +12,9 @@ This project provides the basic understanding of APIs for open data.
 
 Files:
 ------
-api-basics.rtf - api-basics in rtf format
-api-basics.doc - api-basics in a word document
-index.html - api-basics in an html format
+1. `index.md` - content containing the basics of APIs
+2. all other files - web serving files
+
+Where You Come In
+-----------------
+Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here.   

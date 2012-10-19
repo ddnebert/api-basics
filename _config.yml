@@ -1,0 +1,11 @@
+#document settings
+title: API Basics
+description: Office of Management and Budgets
+url: http://project-open-data.github.com/api-basics
+repo_url: https://github.com/project-open-data/api-basics
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
