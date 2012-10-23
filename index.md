@@ -117,6 +117,3 @@ Support and resources can create a positive feedback loop among developers and e
 Developers can’t be expected to visit an API area regularly, so an API community needs to extend its reach to existing social network and developer communities including Twitter, LinkedIn, Github, and Stack Exchange.
 
 Even more than just a presence on these social networks, an API needs to have an offline presence too -- something that can be accomplished by attending conferences, meet-ups, and hackathons, for example.   These activities will only serve to strengthen the API community.
-
-
-
