@@ -3,9 +3,6 @@ permalink: /index.html
 layout: home
 ---
 
-API Basics
-==========
-
 An API Overview
 ---------------
 Re-used from [apievangilist.com](http://www.apievangelist.com) under a [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license and the [Federal Aviation Administration](http://services.faa.gov/).   
